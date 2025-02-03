@@ -1,0 +1,302 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!90 &9000000
+Avatar:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: alarm_skinAvatar
+  m_AvatarSize: 1496
+  m_Avatar:
+    serializedVersion: 3
+    m_AvatarSkeleton:
+      data:
+        m_Node:
+        - m_ParentId: -1
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        - m_ParentId: 2
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 4
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 6
+          m_AxesId: -1
+        - m_ParentId: 3
+          m_AxesId: -1
+        - m_ParentId: 0
+          m_AxesId: -1
+        m_ID:
+        - 0
+        - 1256843190
+        - 861618645
+        - 2264523964
+        - 1797543424
+        - 246787066
+        - 3521859480
+        - 2353342477
+        - 2107308852
+        - 1972292913
+        m_AxesArray: []
+    m_AvatarSkeletonPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: -2.1644945E-08}
+          q: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00030377135, y: -0.00012122514, z: -5.2989E-12}
+          q: {x: -1.5439775E-06, y: 1.5439775E-06, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.96922255, y: -0.00061602576, z: 5.960464E-08}
+          q: {x: -8.821486E-06, y: 6.079319E-09, z: -0.00068914884, w: 0.99999976}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.16734207, y: 0.28015932, z: 5.841255E-06}
+          q: {x: -4.883554E-06, y: -9.3364815E-06, z: 0.89151776, w: -0.45298573}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3242656, y: -1.1920929E-07, z: 1.4111237E-08}
+          q: {x: -2.0985762E-07, y: 1.1314877E-07, z: -0.47458076, w: 0.88021195}
+          s: {x: 1.0000001, y: 1.0000001, z: 1}
+        - t: {x: -0.16497481, y: -0.285859, z: -6.198884E-06}
+          q: {x: 4.8145257E-06, y: -9.554091E-06, z: 0.8967645, w: 0.4425082}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.31892723, y: 0, z: 9.127632E-10}
+          q: {x: -4.0346792E-13, y: -1.2997169E-13, z: 0.46183312, w: 0.8869669}
+          s: {x: 1.0000001, y: 1.0000001, z: 1}
+        - t: {x: -0.022308886, y: -0.00047305226, z: 0.1852498}
+          q: {x: -0.68063456, y: 0.19163874, z: 0.19351211, w: 0.6801208}
+          s: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+        - t: {x: 0.0039783865, y: 1.1390758, z: 0.40222168}
+          q: {x: 0.49355048, y: 0.5063674, z: -0.49355015, w: 0.5063677}
+          s: {x: 1, y: 1, z: 1}
+    m_DefaultPose:
+      data:
+        m_X:
+        - t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0, y: 0, z: -2.1644945E-08}
+          q: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.00030377135, y: -0.00012122514, z: -5.2989E-12}
+          q: {x: -1.5439775E-06, y: 1.5439775E-06, z: -0.7071068, w: 0.7071068}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.96922255, y: -0.00061602576, z: 5.960464E-08}
+          q: {x: -8.821486E-06, y: 6.079319E-09, z: -0.00068914884, w: 0.99999976}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.16734207, y: 0.28015932, z: 5.841255E-06}
+          q: {x: -4.883554E-06, y: -9.3364815E-06, z: 0.89151776, w: -0.45298573}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.3242656, y: -1.1920929E-07, z: 1.4111237E-08}
+          q: {x: -2.0985762E-07, y: 1.1314877E-07, z: -0.47458076, w: 0.88021195}
+          s: {x: 1.0000001, y: 1.0000001, z: 1}
+        - t: {x: -0.16497481, y: -0.285859, z: -6.198884E-06}
+          q: {x: 4.8145257E-06, y: -9.554091E-06, z: 0.8967645, w: 0.4425082}
+          s: {x: 1, y: 1, z: 1}
+        - t: {x: -0.31892723, y: 0, z: 9.127632E-10}
+          q: {x: -4.0346792E-13, y: -1.2997169E-13, z: 0.46183312, w: 0.8869669}
+          s: {x: 1.0000001, y: 1.0000001, z: 1}
+        - t: {x: -0.022308886, y: -0.00047305226, z: 0.1852498}
+          q: {x: -0.68063456, y: 0.19163874, z: 0.19351211, w: 0.6801208}
+          s: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+        - t: {x: 0.0039783865, y: 1.1390758, z: 0.40222168}
+          q: {x: 0.49355048, y: 0.5063674, z: -0.49355015, w: 0.5063677}
+          s: {x: 1, y: 1, z: 1}
+    m_SkeletonNameIDArray:
+    - 0
+    - 1256843190
+    - 861618645
+    - 4261917500
+    - 249088336
+    - 701927502
+    - 2645416384
+    - 3019808215
+    - 2497731848
+    - 1972292913
+    m_Human:
+      data:
+        serializedVersion: 2
+        m_RootX:
+          t: {x: 0, y: 0, z: 0}
+          q: {x: 0, y: 0, z: 0, w: 1}
+          s: {x: 1, y: 1, z: 1}
+        m_Skeleton:
+          data:
+            m_Node: []
+            m_ID: []
+            m_AxesArray: []
+        m_SkeletonPose:
+          data:
+            m_X: []
+        m_LeftHand:
+          data:
+            m_HandBoneIndex:
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+        m_RightHand:
+          data:
+            m_HandBoneIndex:
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+            - -1
+        m_Handles: []
+        m_ColliderArray: []
+        m_HumanBoneIndex:
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        m_HumanBoneMass:
+        - 0.14545456
+        - 0.12121213
+        - 0.12121213
+        - 0.048484854
+        - 0.048484854
+        - 0.009696971
+        - 0.009696971
+        - 0.030303033
+        - 0.14545456
+        - 0.14545456
+        - 0.012121214
+        - 0.048484854
+        - 0.006060607
+        - 0.006060607
+        - 0.024242427
+        - 0.024242427
+        - 0.01818182
+        - 0.01818182
+        - 0.006060607
+        - 0.006060607
+        - 0.0024242427
+        - 0.0024242427
+        - 0
+        - 0
+        - 0
+        m_ColliderIndex:
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        - -1
+        m_Scale: 1
+        m_ArmTwist: 0.5
+        m_ForeArmTwist: 0.5
+        m_UpperLegTwist: 0.5
+        m_LegTwist: 0.5
+        m_ArmStretch: 0.05
+        m_LegStretch: 0.05
+        m_FeetSpacing: 0
+        m_HasLeftHand: 0
+        m_HasRightHand: 0
+        m_HasTDoF: 0
+    m_HumanSkeletonIndexArray: []
+    m_HumanSkeletonReverseIndexArray: []
+    m_RootMotionBoneIndex: -1
+    m_RootMotionBoneX:
+      t: {x: 0, y: 0, z: 0}
+      q: {x: 0, y: 0, z: 0, w: 1}
+      s: {x: 1, y: 1, z: 1}
+    m_RootMotionSkeleton:
+      data:
+        m_Node: []
+        m_ID: []
+        m_AxesArray: []
+    m_RootMotionSkeletonPose:
+      data:
+        m_X: []
+    m_RootMotionSkeletonIndexArray: []
+  m_TOS:
+  - first: 0
+    second:
+  - first: 246787066
+    second: monster16_root/monster16_body/monster16_rightarm/monster16_rightforearm
+  - first: 861618645
+    second: monster16_root
+  - first: 1256843190
+    second: monster16
+  - first: 1797543424
+    second: monster16_root/monster16_body/monster16_rightarm
+  - first: 1972292913
+    second: emitter
+  - first: 2107308852
+    second: monster16_root/monster16_body/monster16_mouth
+  - first: 2264523964
+    second: monster16_root/monster16_body
+  - first: 2353342477
+    second: monster16_root/monster16_body/monster16_leftarm/monster16_leftforearm
+  - first: 3521859480
+    second: monster16_root/monster16_body/monster16_leftarm
